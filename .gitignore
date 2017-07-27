@@ -1,0 +1,12 @@
+*.class
+*.apk
+*.stackdump
+bin/
+gen/
+css/
+js/
+.settings/
+proguard/
+.classpath
+.metadata
+project.properties
